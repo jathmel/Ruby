@@ -1,17 +1,17 @@
-=begin
-puts("Hello World!")
-##
-# fornuby to recognize a string it must first be place in quotation marks!
-#Wrong Syntaxa
-#puts(Hello World)
-
-#Correct Syntax
-puts("Hello World!")
-
-puts("The answer to life, the universe, and everything is:")
-puts(42)
-puts(4,000)
-puts(4000)
+# =begin
+# puts("Hello World!")
+# ##
+# # fornuby to recognize a string it must first be place in quotation marks!
+# #Wrong Syntaxa
+# #puts(Hello World)
+#
+# #Correct Syntax
+# puts("Hello World!")
+#
+# puts("The answer to life, the universe, and everything is:")
+# puts(42)
+# puts(4,000)
+# puts(4000)
 
 puts(3 + 4)
 puts(7 - 5)
@@ -424,7 +424,7 @@ end
 puts(smallest_square(10))
 
 def middle_str(string)
-  
+
   vowel = ["a", "e", "i", "o", "u"]
   i = 0
   while i < string.length
